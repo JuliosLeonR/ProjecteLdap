@@ -4,6 +4,7 @@
 
 /* config.css */
 
+/* El color de la web */
 :root {
   --baseColor: #606468;
 }
@@ -17,6 +18,7 @@
   margin-right: auto;
 }
 
+/* Alinear els items al centre */
 .align {
   place-items: center;
 }
@@ -46,6 +48,7 @@
   --iconFill: var(--baseColor);
 }
 
+/* Icones */
 .icons {
   display: none;
 }
